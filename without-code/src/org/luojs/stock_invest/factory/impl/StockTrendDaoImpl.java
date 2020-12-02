@@ -1,6 +1,6 @@
-package org.luojs.invest.factory.impl;
+package org.luojs.stock_invest.factory.impl;
 
-import org.luojs.invest.factory.IStockTrendDao;
+import org.luojs.stock_invest.factory.IStockTrendDao;
 
 import java.util.ArrayList;
 import java.util.Arrays;

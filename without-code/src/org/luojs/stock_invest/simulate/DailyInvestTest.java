@@ -1,11 +1,12 @@
-package org.luojs.invest.simulate;
+package org.luojs.stock_invest.simulate;
 
-import org.luojs.invest.entity.DailyInvest;
-import org.luojs.invest.factory.IStockTrendDao;
-import org.luojs.invest.factory.impl.StockTrendDaoImpl;
-import org.luojs.invest.strategy.AutomaticInvest;
+import org.luojs.stock_invest.entity.DailyInvest;
+import org.luojs.stock_invest.factory.IStockTrendDao;
+import org.luojs.stock_invest.factory.impl.StockTrendDaoImpl;
+import org.luojs.stock_invest.strategy.AutomaticInvest;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @author 罗俊生

@@ -1,4 +1,4 @@
-package org.luojs.invest.factory;
+package org.luojs.stock_invest.factory;
 
 import java.util.List;
 

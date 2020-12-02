@@ -1,6 +1,4 @@
-package org.luojs.invest.strategy;
-
-import java.util.*;
+package org.luojs.stock_invest.strategy;
 
 /**
  * 定投策略

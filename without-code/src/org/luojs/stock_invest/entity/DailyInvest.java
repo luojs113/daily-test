@@ -1,10 +1,10 @@
-package org.luojs.invest.entity;
+package org.luojs.stock_invest.entity;
 
 import java.util.List;
 
 /**
  * @author 罗俊生
- * @date 2020/9/25 11:58
+ * @date 2020/12/2 11:42
  */
 public class DailyInvest {
 

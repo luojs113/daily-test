@@ -1,4 +1,4 @@
-package org.luojs.invest.entity;
+package org.luojs.stock_invest.entity;
 
 public class StockRange {
 

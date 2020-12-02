@@ -1,4 +1,4 @@
-package org.luojs.invest.entity;
+package org.luojs.stock_invest.entity;
 
 /**
  * 投资信息

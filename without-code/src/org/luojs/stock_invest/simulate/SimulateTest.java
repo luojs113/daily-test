@@ -1,14 +1,14 @@
-package org.luojs.invest.simulate;
+package org.luojs.stock_invest.simulate;
 
-import org.luojs.invest.entity.InvestInfo;
-import org.luojs.invest.factory.IStockTrendDao;
-import org.luojs.invest.factory.impl.StockTrendDaoImpl;
-import org.luojs.invest.strategy.AutomaticInvest;
+import org.luojs.stock_invest.entity.InvestInfo;
+import org.luojs.stock_invest.factory.IStockTrendDao;
+import org.luojs.stock_invest.factory.impl.StockTrendDaoImpl;
+import org.luojs.stock_invest.strategy.AutomaticInvest;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class simulateTest {
+public class SimulateTest {
 
     public static void main(String[] args) {
         InvestInfo investInfo = new InvestInfo(100000d, 250);
